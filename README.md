@@ -1,5 +1,7 @@
 # PHP-Unit
- PHP unit Engenharia de Software
+Fizeram parte desse projeto Ivan da Silva, Nathan Riffel e Gabriela Demossi
+
+PHP unit Engenharia de Software
 Objetivo
 O objetivo foi aprender a usar o PHPUnit, uma ferramenta que testa se funções em PHP estão funcionando. A gente testou funções simples e também viu como elas se comportam quando colocamos valores errados.
 Como o Projeto Está Organizado
